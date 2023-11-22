@@ -1,4 +1,4 @@
-# sanity-scan
+# Bank API
 
 ## Prerequisite
 - java 11
